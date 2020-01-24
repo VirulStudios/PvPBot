@@ -1,6 +1,4 @@
-# PvPBot
-allow you to Summon a PvPBot to fight
-| Phar |  | HitCount |
+| Phar | | HitCount |
 | :---: | | :---: |
  [![Download](https://img.shields.io/badge/download-latest-blue.svg)](https://poggit.pmmp.io/ci/VirulStudios/PvPBot/PvPBot) | [![HitCount](http://hits.dwyl.io/CLADevs/Bot.svg)](http://hits.dwyl.io/CLADevs/Bot)
 
