@@ -1,0 +1,9 @@
+name: Bot
+version: 1.0.0
+api: 3.0.0
+main: Bot\Main
+author: CLADev & VirulStudios Team
+
+commands:
+  npc:
+    description: "allow you to Summon a PvPBot to fight"
